@@ -1,6 +1,6 @@
 # Fabian Juppe Website
 
-&copy; 2021 Fabian Juppe
+&copy; 2023 Fabian Juppe
 
 ## Credits
 
